@@ -1,0 +1,118 @@
+nav ul li.menu a{
+    color:#FFF !important; 
+}
+nav ul li.menu a:hover{
+    color: #bebeeb !important;
+}
+header{
+    margin-bottom: 56px !important;
+}
+.servicos{
+    background-color: #070101;
+    border-radius: 0rem;
+    margin-bottom: 0rem;
+}
+.titulo-servicos{
+    color:#89dacc;
+    margin-bottom: 40px;
+}
+.tamanho-icone{
+    font-size: 68px;
+    color:#5ed82d
+}
+.depoimento{
+    background-color: #070101;
+    border-radius: 0rem;
+    margin-bottom: 0rem;
+}
+.titulo-depoimento{
+    color:#89dacc;
+    margin-bottom: 40px;
+}
+    .desc-depoimento{
+        margin-bottom: 40px;
+        color: bisque;
+}
+.rodape{
+    background-color: #070101;
+    color: #FFF;
+    border-radius: 0rem;
+    margin-bottom: 0rem
+}
+.rodape ul li a.link-rodape{
+    color: #FFF !important;
+}
+.rodape ul li a.link-rodape:hover{
+    color: aqua !important;
+    text-decoration: none;
+}
+.sobre{
+    background-color: black;
+    border-radius: 0rem;
+    margin-bottom: 0rem;
+}
+.featurette-heading{
+    color: white;
+}
+.lead{
+    color: turquoise;
+}
+.sobre-titulo{
+    margin-bottom: 40px;
+    color: turquoise;
+}
+.contato{
+    background-color: black;
+    border-radius: 0rem;
+    margin-bottom: 0rem;
+}
+.contato-titulo{
+    margin-bottom: 40px;
+    color: turquoise;
+}
+.form-group{
+    color: white;
+}
+.blog{
+    background-color: black;
+    border-radius: 0rem;
+    margin-bottom: 0rem;
+}
+.blog-titulo{
+    margin-bottom: 40px;
+    color: turquoise;
+}
+.blog-post{
+    color: #FFF;
+}
+.blog-post-title a{
+    color: #FFF;
+}
+.blog-post-title a:hover{
+    color: red;
+}
+.font-italic{
+    color: chartreuse;
+}
+.cont-lendo-post{
+    color: darkorchid;
+}
+.blog-pagination{
+    margin-bottom: 4rem;
+}
+.blog-pagination > .btn{
+    border-radius: 2rem;
+}
+.ult-art{
+    background-color: #070101;
+    border-radius: 0rem;
+    margin-bottom: 0rem;
+}
+.titulo-ult-art{
+    color:#89dacc;
+    margin-bottom: 40px;
+}
+.title-post-home a:hover{
+    color: red;
+    text-decoration: none;
+}
